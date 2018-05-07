@@ -2,14 +2,14 @@
   "targetProfiles": [
     {
       "username": "abc",
-      "active": false,
+      "active": true,
       "delay": 3000,
       "period": 3000,
       "destination": "https://www.youtube.com/"
     },
     {
       "username": "sbrimer",
-      "active": false,
+      "active": true,
       "delay": 3000,
       "period": 3000,
       "destination": "https://www.youtube.com/"
